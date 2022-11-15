@@ -3,7 +3,7 @@
   "version": "1.7.2",
   "description": "A set of free MIT-licensed high-quality SVG icons as Vue functional components.",
   "repository": {
-    "url": "matschik/vue-hero-icons",
+    "url": "cheatcodemedia/vue-hero-icons",
     "type": "git"
   },
   "homepage": "https://vue-hero-icons.netlify.com",
