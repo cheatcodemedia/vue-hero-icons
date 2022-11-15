@@ -1,4 +1,4 @@
-# vue-hero-icons
+# @cheatcodemedia/vue-hero-icons
 
 For Vue3, install the official package <a href="https://github.com/tailwindlabs/heroicons#vue">@heroicons/vue</a>
 
@@ -19,10 +19,10 @@ Demo: https://vue-hero-icons.netlify.com/
 
 ```bash
 # Only outline icons
-npm install @vue-hero-icons/outline
+npm install @cheatcodemedia/vue-hero-icons/outline
 
 # Only solid icons
-npm install @vue-hero-icons/solid
+npm install @cheatcodemedia/vue-hero-icons/solid
 ```
 
 ## Usage

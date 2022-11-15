@@ -56,7 +56,7 @@ const packageJSONTemplate = (category) =>
 
 async function main() {
   await fs.remove("./packages");
-  const iconDirsPath = path.join(__dirname, "node_modules/heroicons/optimized");
+  const iconDirsPath = path.join(__dirname, "node_modules/heroicons/24");
   const categories = ["outline", "solid"];
   const icons = [];
 
