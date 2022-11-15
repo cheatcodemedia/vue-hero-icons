@@ -37,7 +37,7 @@ export default {
 
 const packageJSONTemplate = (category) =>
   `{
-  "name": "@vue-hero-icons/${category}",
+  "name": "@cheatcodemedia/vue-heroicons-${category}",
   "version": "${pkg.version}",
   "main": "lib/index.cjs.js",
   "module": "lib/index.es.js",

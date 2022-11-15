@@ -19,10 +19,10 @@ Demo: https://vue-hero-icons.netlify.com/
 
 ```bash
 # Only outline icons
-npm install @cheatcodemedia/vue-hero-icons/outline
+npm install @cheatcodemedia/vue-heroicons-outline
 
 # Only solid icons
-npm install @cheatcodemedia/vue-hero-icons/solid
+npm install @cheatcodemedia/vue-heroicons-solid
 ```
 
 ## Usage

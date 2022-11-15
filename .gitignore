@@ -5,3 +5,4 @@ packages/**/*
 .vscode/
 .nuxt/
 yarn-error.log
+.idea/**/*
